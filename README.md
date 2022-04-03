@@ -1,4 +1,4 @@
-# Presentación de Programación con Objetos I de **_Valentino Chiappanni_**
+# Presentación de Programación con Objetos I
 
 - [x] Universidad Nacional de Hurlingham- [UNAHUR](https://unahur.edu.ar)
 - [x] Instituto de Tecnología e Ingeniería 
@@ -14,3 +14,6 @@
 
 ## dejamos una reflexión 🤪
 ![somos todos](https://github.com/obj1-unahur-2022s1/PresentacionPersonal/blob/main/meme.jpg)
+
+# Presentacion Valentino Chiappanni
+Hola soy Valentino Chiappanni, actualemte tengo 18 años, el jueves 7 abril ya 19. Me encuentro estudiando la tecnicatura en programacion, la cual espero ya terminar a principios del año que viene, y luego seguir con la licenciatura en informatica.
