@@ -16,6 +16,6 @@
 ![somos todos](https://github.com/obj1-unahur-2022s1/PresentacionPersonal/blob/main/meme.jpg)
 
 # Presentacion Valentino Chiappanni
-Hola soy Valentino Chiappanni, actualemte tengo 18 años, el jueves 7 abril ya 19. Me encuentro estudiando la tecnicatura en programacion, la cual espero ya terminar a principios del año que viene, y luego seguir con la licenciatura en informatica.
+Hola soy Valentino Chiappanni, actualmente tengo 18 años, el jueves 7 abril ya 19. Me encuentro estudiando la tecnicatura en programación, la cual espero ya terminar a principios del año que viene, y luego seguir con la licenciatura en informática.
 
 ![FotoPresentacion](https://github.com/obj1-unahur-2022s1/presentacionpersonal-elvalen077/blob/main/valenfoto.jpg?raw=true)
